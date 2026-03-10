@@ -1,13 +1,8 @@
-import os
-import sys
-import time
-import pandas as pd
-import numpy as np
-import streamlit as st
-from sklearn.decomposition import PCA
-import matplotlib
-matplotlib.use("Agg")
-import matplotlib.pyplot as plt
-import streamlit as st
-import pandas as pd
-import numpy as np
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+statsmodels
+openpyxl

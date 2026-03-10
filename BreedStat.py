@@ -8,7 +8,7 @@ import sys
 import time
 import pandas as pd
 import numpy as np
-from sklearn.decomposition import PCA
+from scikit-learn.decomposition import PCA
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -823,6 +823,7 @@ Results saved to:
 """)
 
 st.write(f"Enhanced analysis saved to: {output_file}")
+
 
 
 
